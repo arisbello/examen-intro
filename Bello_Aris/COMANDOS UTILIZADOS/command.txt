@@ -1,0 +1,1 @@
+El comando CP es utilizado para copiar archivos o directorios a donde deseemos
